@@ -1,4 +1,3 @@
-
 🧠 Tumor Detection System using MRI Scans<br>
 A distributed system for brain tumor detection using MRI scan images, built with PySpark for scalable data processing and Convolutional Neural Networks (CNNs) for accurate tumor classification. The project also includes a user-friendly web frontend to visualize predictions.<br>
 <br>
